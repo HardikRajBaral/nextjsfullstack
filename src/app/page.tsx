@@ -1,6 +1,7 @@
+import Link from "next/link";
 import MaxWidthWrapper from "@/components/MaxWidthWrepper";
 import { Button, buttonVariants } from "@/components/ui/button";
-import { ArrowDownToLine, CheckCircle, Leaf, Link } from "lucide-react";
+import { ArrowDownToLine, CheckCircle, Leaf } from "lucide-react";
 
 const perks=[
   {
